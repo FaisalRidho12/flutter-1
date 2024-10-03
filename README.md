@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ![Screenshoot hello_world](image/01.png)
+![Screenshoot nama](image/02.png)
 
 <!-- ## Getting Started
 
